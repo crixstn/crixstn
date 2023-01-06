@@ -23,7 +23,7 @@
 </br>
 
 ### <img width="30px" src="https://github.githubassets.com/images/mona-loading-default.gif"/> Github stats:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crixstn&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crixstn&layout=compact&langs_count=7&theme=transparent&&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=crixstn&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crixstn&layout=compact&langs_count=7&theme=transparent&&hide_border=true"/>
 
 [linkedin]: https://www.linkedin.com/in/crixstn/
